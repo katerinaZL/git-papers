@@ -7,3 +7,5 @@ Based on results from Smith 2009, and Gorgonola et al. 2013.
 
 Results:
 blargy blarg
+
+Figures: they are so beautiful
