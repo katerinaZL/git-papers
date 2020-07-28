@@ -9,3 +9,5 @@ Results:
 blargy blarg
 
 Figures: they are so beautiful
+
+Affiliations: McGill
